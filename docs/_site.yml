@@ -17,9 +17,9 @@ navbar:
       href: publications.html
     - text: "teaching experience"
       href: teaching.html
-    - icon: fa-github fa-2x
+    - icon: fa-github
       href: https://github.com/oyshonib
-    - icon: fa-linkedin fa-2x
+    - icon: fa-linkedin
       href: https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button
 
 output:
