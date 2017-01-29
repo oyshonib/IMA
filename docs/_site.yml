@@ -17,6 +17,8 @@ navbar:
  #     href: publications.html
     - text: "teaching experience"
       href: teaching.html
+    - text: "R-blog"
+      #href: teaching.html
     - icon: fa-linkedin
       href: https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button
 

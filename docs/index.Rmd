@@ -60,6 +60,31 @@ Minneapolis, MN USA 55455
 ## Recent Projects
 <br/><br/>
 
+
+
+## Selected Projects {.tabset}
+<br/>
+
+### Kiva Engine Simulation
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/d3iTt5-Zx54?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+### Split diesel injection
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/qCeurhIZjM4?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+### Argonne project
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/xJiCVhFPwMg?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+### 2-D Adaptive mesh refinement
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/7lgABUVFqIM?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
 <!-- ### Nashville Housing Tool -->
 <!-- Created a tool for incoming graduate students to help with housing decisions. -->
 
