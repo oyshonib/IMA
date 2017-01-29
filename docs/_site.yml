@@ -22,6 +22,10 @@ navbar:
 
 output:
   html_document:
-    theme: journal
+    theme: yeti #journal
     highlight: textmate
     css: css/style.css
+    include:
+        after_body: #footer.html
+
+exclude: ["*.csv", "*.bib","*.sh","*.R"] 
