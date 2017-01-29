@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "IMA"
 ---
 
-More about this website.
+My experience at the IMA -- purely data science stuff
