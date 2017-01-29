@@ -4,26 +4,14 @@ title: "Teaching Experience"
 <br>
 </br>
 
-## Classroom Experience
-<br>
+### Michigan Technological University
 
-### Vanderbilt University
+* Elementary Differential Equations
+* Calculus II with Technology
+* Data, Functions and Graphs Plus
+* College Algebra II with Trigonometry
+* Calculus for life Sciences
 
-* Statistical Collaboration in Health Sciences Teaching Assistant (2015) 
-* Modern Regression Analysis Teaching Assistant (2015)
-* Principles of Modern Biostatistics Teaching Assistant (2014)
-
-### Washington University in St. Louis
-* Introduction to SAS Teaching Assistant (2013)
-* Introduction to Clinical Epidemiology Teaching Assistant (2013)
-* Randomized Controlled Trials Teaching Assistant (2013)
 
 <br>
 
-## Tutoring
-
-
-* R
-* Math GRE 
-* SAS
-* Introduction to Biostatistics

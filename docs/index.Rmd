@@ -20,7 +20,7 @@ title: ""
 <div class="row">
 <div class="col-xs-12 col-sm-5 text-center">
 <br/>
-<img src="figs/ola_BW.png" alt="oyshonib" style="width:300px;" align = "top"/> 
+<img src="figs/Olabanji_Shonibare.png" alt="oyshonib" style="width:300px;" align = "top"/> 
 </div>
 <br/><br/>
 <div class="col-xs-12 col-sm-7">
