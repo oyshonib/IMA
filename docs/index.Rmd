@@ -2,8 +2,6 @@
 title: ""
 ---
 
-![](figs/Olabanji_Shonibare.png) * IMA Data science fellow
-
 
 
 <!-- <script> -->
@@ -22,22 +20,18 @@ title: ""
 <div class="row">
 <div class="col-xs-12 col-sm-5 text-center">
 <br/>
-<img src="https://raw.githubusercontent.com/LucyMcGowan/lucymcgowan.github.io/master/figs/coffee.png" alt="coffee" style="width:400px;" align = "top"/> 
+<img src="figs/ola_BW.png" alt="oyshonib" style="width:300px;" align = "top"/> 
 </div>
+<br/><br/>
 <div class="col-xs-12 col-sm-7">
-<span style="font-family:myFancyFont; font-size:3em;">These days I like to discuss</span>
 
-* [BB-8](https://www.facebook.com/groups/TNBB8Builders/)
-* Vanderbilt Biostatistics *PhD Student*
-* Big Data initiatives *Fellow in Vanderbilt's Inaugural Big Biomedical Data Science Program*
-* R-Ladies Nashville *Co-founder* <a href = "https://twitter.com/RLadiesNash"><img src="https://raw.githubusercontent.com/LucyMcGowan/GSC/gh-pages/logos/twitter_icon.png" alt="Twitter Logo" height="20" width="20" align ="top"></a>
-* [Monty Python](https://www.youtube.com/watch?v=npjOSLCR2hE)
-* Predictive models
-* Italian
-* Propensity scores
-* Vanderbilt [Graduate Student Council](https://studentorg.vanderbilt.edu/gsc/) *President*
-
-<span style="font-family:myFancyFont; font-size:3em;">over coffee...</span>
+* IMA Data Science Fellow *(present)*
+* Michigan Tech. Computational Mathematics *PhD Candidate*
+* Institute for Mathematics and its Applications (IMA) <br />
+College of Science and Engineering <br />
+207 Church Street SE <br />
+306 Lind Hall <br />
+Minneapolis, MN USA 55455
 
 </div>
 </div>

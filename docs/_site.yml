@@ -11,10 +11,10 @@ navbar:
           href: https://github.com/oyshonib
         - icon: fa-envelope
           href: mailto:oyshonib@mtu.edu
-    - text: "presentations"
-      href: presentations.html
-    - text: "publications"
-      href: publications.html
+ #   - text: "presentations"
+ #     href: presentations.html
+ #   - text: "publications"
+ #     href: publications.html
     - text: "teaching experience"
       href: teaching.html
     - icon: fa-linkedin
