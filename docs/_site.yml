@@ -17,8 +17,6 @@ navbar:
       href: publications.html
     - text: "teaching experience"
       href: teaching.html
-    - icon: fa-github
-      href: https://github.com/oyshonib
     - icon: fa-linkedin
       href: https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button
 
