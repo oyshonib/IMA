@@ -2,4 +2,4 @@
 title: "OLABANJI SHONIBARE"
 ---
 
-![](figs/Olabanji_Shonibare.png) *IMA Data science fellow
+![](figs/Olabanji_Shonibare.png) * IMA Data science fellow
