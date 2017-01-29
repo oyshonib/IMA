@@ -22,7 +22,7 @@ navbar:
 
 output:
   html_document:
-    theme: yeti #journal
+    theme: journal #yeti 
     highlight: textmate
     css: css/style.css
     include:
