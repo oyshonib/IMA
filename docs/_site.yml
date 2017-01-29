@@ -1,17 +1,25 @@
-name: "my-website"
+name: "oyshonib"
 output_dir: "."
 navbar:
-  title: "My Website"
-  left:
-    - text: "Home"
-      icon: fa-home
+  title: "Olabanji Shonibare"
+  right:
+    - text: "home"
       href: index.html
-    - text: "About"
-      icon: fa-info
-      href: about.html
-    - text: "More"
-      icon: fa-gear
+    - text: "say hi"
       menu:
-        - text: "Heading 1"
-        - text: "Page A"
-          href: page_a.html
+        - icon: fa-github
+          href: https://github.com/oyshonib
+        - icon: fa-envelope
+          href: mailto:oyshonib@mtu.edu
+    - text: "presentations"
+      href: presentations.html
+    - text: "publications"
+      href: publications.html
+    - text: "teaching experience"
+      href: teaching.html
+
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    css: css/style.css
