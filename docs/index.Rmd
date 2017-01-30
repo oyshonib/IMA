@@ -77,6 +77,8 @@ Minneapolis, MN USA 55455
 ### 2-D Adaptive mesh refinement
 <iframe width="560" height="315" src="http://www.youtube.com/embed/7lgABUVFqIM?rel=0" frameborder="0" allowfullscreen></iframe>
 
+### wee
+[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 <!-- ### Nashville Housing Tool -->
 <!-- Created a tool for incoming graduate students to help with housing decisions. -->
